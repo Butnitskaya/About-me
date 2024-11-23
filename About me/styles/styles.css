@@ -1,0 +1,23 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+}
+
+.social_media li, a {
+    color: aliceblue;
+    font-style: oblique;
+    text-align: left;
+}
+
+.description {
+    border-left: 1px solid aliceblue;
+    text-align: left;
+    padding-left: 10px;
+}
+
+span {
+    text-transform: uppercase;  
+}
